@@ -1,2 +1,7 @@
-# Ignore entire data folder
-data/
+# Current and historical local datasets
+data_final/
+outdated/data/
+data_final.zip
+
+# Local notebook builder scripts
+_build*.py
